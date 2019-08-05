@@ -1,5 +1,3 @@
-# Unet-for-color-image-segmentation
-Unet: implementation of color cell image segmentation method, using pytorch
 # Unet: implementation of color cell image segmentation method, using pytorch
 
 The architecture was inspired by [U-Net: Convolutional Networks for Biomedical Image Segmentation](http://lmb.informatik.uni-freiburg.de/people/ronneber/u-net/).
