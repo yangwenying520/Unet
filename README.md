@@ -46,9 +46,7 @@ Use the trained model to do segmentation on test images, the result is statisfac
 
 
 
-## Direct testing, no need for long training
+## Training completed, how to test directly?
 
-Direct testing, no need for long training
-You don't need training, you can directly test accordingly.
-I provide the UNet_weights_bilinear_weight.pth file, which is already a trained model and I hope it will be useful to you.
-You only need to run the test.py file directly.
+After the training is completed, the corresponding test is directly carried out.
+After the training is completed, the UNet_weights_bilinear_weight.pth file is produced. This file is already a well-trained model. You only need to run the test.py file directly.
