@@ -16,9 +16,9 @@ You can find a few files in the folder membrane, which is necessary for confiden
 
 ### Model
 
-![img/psb.png](img/psb.png)
+![u-net/img/psb.png](u-net/img/psb.png)
 
-![img/cxsx.png](img/cxsx.png)
+![u-net/img/cxsx.png](u-net/img/cxsx.png)
 
 This deep neural network is implemented with pytorch.
 
@@ -44,7 +44,7 @@ You will see the prediction results of the test image in u-net/result
 
 Use the trained model to do segmentation on test images, the result is statisfactory.
 
-![img/jguo.png](img/jguo.png)
+![u-net/img/jguo.png](u-net/img/jguo.png)
 
 
 
