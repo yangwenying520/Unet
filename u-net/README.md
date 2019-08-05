@@ -50,3 +50,4 @@ Use the trained model to do segmentation on test images, the result is statisfac
 
 After the training is completed, the corresponding test is directly carried out.
 After the training is completed, the UNet_weights_bilinear_weight.pth file is produced. This file is already a well-trained model. You only need to run the test.py file directly.
+If you do not want to train for a long time, you need this file, you can contact me: YANGWENYING529@Gmail.com
