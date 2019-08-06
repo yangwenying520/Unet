@@ -32,6 +32,8 @@ The model (Iteration 100 times) Using RTX 2080 Ti, it takes dozens of minutes to
 
 Library from: pytorch
 In addition, this code should be compatible with Python version 2.7-3.6.
+Remember that you need to download CUDA and pytorch-GPU.
+If you want to use the CPU for training and testing, you can modify a small part of the code, but the training will take a long time.
 
 ### Run train.py
 
